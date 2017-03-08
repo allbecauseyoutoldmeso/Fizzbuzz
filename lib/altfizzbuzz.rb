@@ -13,5 +13,3 @@ def fizzbuzz
 end
 
 end
-
-puts 5.fizzbuzz
